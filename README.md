@@ -1,2 +1,4 @@
 # udacity
-This project involves investigating a data set and getting useful insights. Multiple datasets were provided by udacity, out of which I chose to analye FBI guns data. I proposed different questions based on features of data and then after data wrangling, I provided my answers or inferences using data visualisations. Insights are included in jupyter notebook file. 
+A/B tests are very commonly performed by data analysts and data scientists. It is important that you get some practice working with the difficulties of these.
+
+For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision. 
